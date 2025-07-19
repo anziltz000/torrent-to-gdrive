@@ -12,6 +12,6 @@ Download `.torrent` or magnet links directly in Google Colab using `aria2c`, wit
 
 ## 📂 Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anziltz000/torrent-to-gdrive/blob/main/torrent_downloader.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anziltz000/torrent-to-gdrive/blob/main/Torrent_To_Gdrive_anziltz555.ipynb)
 
 > ✅ Created by `anziltz555` | 🤖 Built with AI
